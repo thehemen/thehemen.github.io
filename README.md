@@ -8,8 +8,8 @@ I create AI-powered videos, music-inspired visual projects, cinematic short stor
 
 If you enjoy my AI video projects and want to support future work, you can do it here:
 
-- DonationAlerts: https://www.donationalerts.com/r/the_hemenn/
-- Boosty: https://boosty.to/the_hemenn/
+- [DonationAlerts](https://www.donationalerts.com/r/the_hemenn/)
+- [Boosty](https://boosty.to/the_hemenn/)
 
 ## About Me
 
@@ -49,10 +49,10 @@ These videos combine music culture, visual rhythm, game-like aesthetics, and AI-
 
 You can find my work here:
 
-- YouTube: https://www.youtube.com/@thehemen/
-- Instagram: https://www.instagram.com/the_hemenn/
-- TikTok: https://www.tiktok.com/@the_hemen/
-- GitHub: https://github.com/thehemen/
+- [YouTube](https://www.youtube.com/@thehemen/)
+- [Instagram](https://www.instagram.com/the_hemenn/)
+- [TikTok](https://www.tiktok.com/@the_hemen/)
+- [GitHub](https://github.com/thehemen/)
 
 Your support helps me continue creating AI music videos, short cinematic stories, and experimental visual projects.
 
